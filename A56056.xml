@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tractat of the universal panacæa of soul and body. Published by William Parke, hermetick philof. and physitian</title>
+            <author>Park, William, of Edinburgh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56056</idno>
+            <idno type="STC">Wing P377A</idno>
+            <idno type="STC">ESTC R216942</idno>
+            <idno type="EEBO-CITATION">99828655</idno>
+            <idno type="PROQUEST">99828655</idno>
+            <idno type="VID">33086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tractat of the universal panacæa of soul and body. Published by William Parke, hermetick philof. and physitian</title>
+                  <author>Park, William, of Edinburgh.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A (-A8). Last leaf blank? not filmed?.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mysticism --  England --  Early works to 1800.</term>
+               <term>Cabala and Christianity --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33086:1" rendition="simple:additions"/>
+            <p>A TRACTAT OF THE Univerſal Panacaea Of SOUL and BODY.</p>
+            <p>Publiſhed by <hi>William Parke,</hi> Hermetick Philoſ. and Phyſitian.</p>
+            <q>
+               <p>In him was life, and the Life was the light of men; and the light ſhineth in darkneſs, and the darkneſs com<g ref="char:EOLhyphen"/>prehendeth it not,</p>
+               <bibl>
+                  <hi>John. 1.4, 5.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed in the Year, 1665.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33086:2"/>
+            <head>THE DEDICATORY.</head>
+            <p>TO them that are Elected of God, and Born of Nature.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33086:2"/>
+            <head>Suppoſita.</head>
+            <p n="1">1. <seg rend="decorInit">G</seg>Od is Unity in Trini<g ref="char:EOLhyphen"/>ty, and Trinity in U<g ref="char:EOLhyphen"/>nity.</p>
+            <p n="2">2. God is all things poſſible and exi<g ref="char:EOLhyphen"/>ſtent.</p>
+            <p n="3">3. All things are in God, as Rays in their Centre.</p>
+            <p n="4">4. The reflection of Gods Image, <hi>in ſpeculo trinitatis,</hi> was the begin<g ref="char:EOLhyphen"/>ning of the Creation.</p>
+            <div type="axioms">
+               <head>Axiomata <hi>of the Creation and Harmony of the World.</hi>
+               </head>
+               <p n="1">1. THe Image emanating from God, is the firſt matter of all things: The firſt termination whereof conſtituted the Circle of <hi>Intelligence;</hi> The ſecond termi<g ref="char:EOLhyphen"/>nation whereof conſtituted the Circle of <hi>Souls;</hi> The third termination whereof conſtituted the Circle of <hi>Nature;</hi> The fourth termination whereof conſtituted the Circle of <hi>Metals.</hi>
+               </p>
+               <pb n="2" facs="tcp:33086:3"/>
+               <p n="2">2. By the Reflection, each Circle was im<g ref="char:EOLhyphen"/>pregnated according to their diſtance from their Centre: <hi>viz.</hi> The Circle of Intelli<g ref="char:EOLhyphen"/>gence with <hi>Forms;</hi> The Circle of Souls with <hi>Ideas;</hi> The Circle of Nature with the <hi>Seminal Reaſons;</hi> The Circle of Matter with <hi>Material Forms.</hi>
+               </p>
+               <p n="3">3. Theſe Circles being Univocal and Homogeneous, are linked together by the Golden Chain of Unity, Love, and Harmo<g ref="char:EOLhyphen"/>ny: <hi>viz.</hi> The Intelligences, with Nature; the Souls, with the <hi>Quinteſſence;</hi> Nature, with Matter, as with a Vehicle.</p>
+               <p n="4">4. The Intelligences are defined both to the power and knowledge: for they can<g ref="char:EOLhyphen"/>not operate any thing without the com<g ref="char:EOLhyphen"/>mand of God.</p>
+            </div>
+            <div n="1" type="proposition">
+               <head>1. <hi>Propoſition.</hi>
+               </head>
+               <p>GOd operateth; by the communication of his <hi>Velle</hi> or Decree, to the firſt matter of Creation; the firſt matter, to the Intelligence; the Intelligence, to the Soul; the Soul, to Nature; Nature, to Matter; doth communicate the <hi>Velle Dei.</hi>
+               </p>
+            </div>
+            <div n="1" type="demonstration">
+               <head>1. <hi>Demonſtration.</hi>
+               </head>
+               <p>GOd communicated his Decree of the Creation of <hi>Adam,</hi> to the firſt Matter;
+<pb n="3" facs="tcp:33086:3"/>the firſt Matter, to the Determinate Intelli<g ref="char:EOLhyphen"/>gence; the Intelligence, to the Determi<g ref="char:EOLhyphen"/>nate Soul; the Soul, to Nature; Nature, to Matter.</p>
+               <p>Theſe being concentrated by the <hi>Velle,</hi> or Decree of God, into one <hi>Microcoſm;</hi> hence floweth the Creation of <hi>Adam.</hi>
+               </p>
+            </div>
+            <div n="2" type="demonstration">
+               <head>2. <hi>Demonstration.</hi>
+               </head>
+               <p>IN the Generation of <hi>Eve,</hi> God commu<g ref="char:EOLhyphen"/>nicated his Decree of her Generation to the firſt Matter; the firſt Matter, to the In<g ref="char:EOLhyphen"/>telligence of <hi>Adam;</hi> the Intelligence, to the Soul; the Soul, to the Fancy; the Fan<g ref="char:EOLhyphen"/>cy, to the Animal, Vital, and Natural Spi<g ref="char:EOLhyphen"/>rits.</p>
+               <p>The Animal, Vital, and Natural Spirits, being concentrated and fermented in the Spermatick Veſskials, by the Phantaſma of the Fancy Sigilled upon them.</p>
+               <p>From the Spirits thus concentrated and fermented, by the Image of God in them; reſulted the Generation of <hi>Evc.</hi> The Ge<g ref="char:EOLhyphen"/>neration of our Saviour was after this man<g ref="char:EOLhyphen"/>ner, as hath been demonſtrated.</p>
+            </div>
+            <div n="3" type="demonstration">
+               <head>3. <hi>Demonstration.</hi>
+               </head>
+               <p>IN the Conception of Chriſt', the Eſſence of God united with the humane Nature
+<pb n="4" facs="tcp:33086:4"/>of Chriſt, by Concentration of the firſt matter of Creation, in humane Nature: Therefore Chriſt is Light and Life, the Light that illuminateth every one that co<g ref="char:EOLhyphen"/>meth into the world; the Life that giveth Life, and reviveth all Mankind: from him <hi>we live, move, and have our being.</hi> The U<g ref="char:EOLhyphen"/>niverſal <hi>Panacaea,</hi> or <hi>Elixer</hi> that cureth all by the water of Regeneration, and fire of the Spirit: The Philoſophers Stone, who tranſ<g ref="char:EOLhyphen"/>muteth the Signature of the Spirit of the Univerſe, and liberats the Image of God, or Spirit of Man from Darkneſs and Capti<g ref="char:EOLhyphen"/>vity, into the glorious light of liberty.</p>
+            </div>
+            <div n="2" type="proposition">
+               <head>2. <hi>Propoſition.</hi>
+               </head>
+               <p>
+                  <hi>L<g ref="char:V">Ʋ</g>cifer</hi> and his Concomitants deſiring to be equal with God, united them<g ref="char:EOLhyphen"/>ſelves with the firſt Matter or Image of God in the ſecond, <hi>viz.</hi> Light, whereby they might have abſolute power over Matters.</p>
+            </div>
+            <div n="4" type="demonstration">
+               <head>4. <hi>Demonſtration.</hi>
+               </head>
+               <p>
+                  <hi>L<g ref="char:V">Ʋ</g>cifer</hi> and his Concomitants being in Fermentation, thorow the deſire of Union with the firſt Matter, communica<g ref="char:EOLhyphen"/>ted the Signature thereof to Matter, by the Vihicle of Nature. Matter being thus
+<pb n="5" facs="tcp:33086:4"/>fermented with the Signature, became pregnant; Matter being thus conceived, God therefore eclipſed the Conception, whereupon followed Abortion.</p>
+               <p>
+                  <hi>Lucifer</hi> and his Concomitants being e<g ref="char:EOLhyphen"/>clipſed, in the Conception of the glori<g ref="char:EOLhyphen"/>ous light, Sigilled the circumference of Nature, <hi>viz.</hi> the <hi>Elementa Elementata,</hi> and <hi>Principia Principiata,</hi> with the Signature of the deſire of Dominion each over another: Hence followeth contention and contrarie<g ref="char:EOLhyphen"/>ty, tranſmutation of each into another, corruption and death.</p>
+               <p>Having thus Sigilled the <hi>Elementa Ele<g ref="char:EOLhyphen"/>mentata,</hi> and <hi>Principia Principiata,</hi> they concentred and fermented them in the ſight of <hi>Eve;</hi> whereby ſhe ſaw the forms of all things, in a Globous Figure: with the which aſpect, her Fancy being faſſinated, ſhe was attracted. Her Fancy being thus attracted, with the Species of the object repreſented, communicated the Spe<g ref="char:EOLhyphen"/>cies thereof to the Soul, and to the Animal, Vital, and Natural Spirits, and conſequen<g ref="char:EOLhyphen"/>ly to the whole Body. The Union thereof was multiplied by the Efflux and Reflux of the Celeſtial Body: by the Efflux to matter Sigilled, with the Signature of Envy, and emulation againſt God, and againſt his I<g ref="char:EOLhyphen"/>mage.</p>
+               <pb n="6" facs="tcp:33086:5"/>
+               <p>By the Reflux from Matter, thereby the Spirit of Man is more and more tranſmu<g ref="char:EOLhyphen"/>ted according to the Fermentation and Ex<g ref="char:EOLhyphen"/>altation of the Fancy from Light into Darkneſs; from Union and Communion with God, into Union and Communion with the Spirit of the Univerſe.</p>
+               <p>
+                  <hi>Eve</hi> being thus faſſinated, did faſſi<g ref="char:EOLhyphen"/>nate <hi>Adam</hi> by Union of her Animal, Vital, and Natural Spirits, (tranſpiring and ex<g ref="char:EOLhyphen"/>haling through the pores of the body) be<g ref="char:EOLhyphen"/>ing Sigilled with <hi>Adams</hi> Spirit: The Spi<g ref="char:EOLhyphen"/>rits being thus United, Sigilled the Spirits of <hi>Adam;</hi> the Spirits, the Fancy; the Fan<g ref="char:EOLhyphen"/>cy, the Soul: hence Diſeaſes, Death, Dam<g ref="char:EOLhyphen"/>nation.</p>
+            </div>
+            <div n="2" type="proposition">
+               <head>2. <hi>Propoſition.</hi>
+               </head>
+               <p>THe Primitive Origin of Diſeaſes, is the Union of the Spirit of Man with the Spirit of the World.</p>
+               <p>The ſecond Cauſe is the Signature of Emulation, Sigilled in Humane Na<g ref="char:EOLhyphen"/>ture. As the Cauſe is two-fold, ſo the Cure.</p>
+               <p>Firſt Cure is by Diſſolution of the Uni<g ref="char:EOLhyphen"/>on; The ſecond is by Tranſmutation of the Signature.</p>
+            </div>
+            <pb n="7" facs="tcp:33086:5"/>
+            <div n="5" type="demonstration">
+               <head>5. <hi>Demonstration.</hi>
+               </head>
+               <p>THe Union of the Spirit of God, is the Diſſolution or Diſ-union of the Spirit of the Univerſe: As the Degree of Union, ſo is the Degree of Diſſolution; a total Union of the Spirit of Man with the Spirit of God, is a total Diſſolution or Li<g ref="char:EOLhyphen"/>beration from the Spirit of the Univerſe. A total Union is Glory and Heaven. The Multiplication of the Union is by the con<g ref="char:EOLhyphen"/>tinual reflection of the Spirit of Man upon God in Chriſt.</p>
+               <p>The means are the Holy Scriptures, Faith, Love, Patience, Repentance, Contrition of Spirit, Humility, Self-denyal, Prayer in Spirit and Truth, Continence, Tempe<g ref="char:EOLhyphen"/>rance.</p>
+            </div>
+            <div type="continuation_of_demonstration">
+               <head>The 2d. part of the Demonſtration.</head>
+               <p>TRanſmutation of the Signature is effect<g ref="char:EOLhyphen"/>ed immediately by Prayer in Faith, working by Love.</p>
+               <p>Tranſmutation of the Signature is me<g ref="char:EOLhyphen"/>diately by Signature, Sigils of Conſtella<g ref="char:EOLhyphen"/>tions, characters of Planets, and of Angels, Numbers, Words, <hi>&amp;c.</hi> Concerning which I have written in a Book, called <hi>Luxe Te<g ref="char:EOLhyphen"/>nebris,</hi>
+                  <pb n="8" facs="tcp:33086:6"/>which I intend ſhortly to put to the Preſs; therefore I ſhall be Brief in this Treatiſe.</p>
+            </div>
+            <div type="section">
+               <head>The Signatures are in Animals, Vegitables, Mettallick Bodies, and Mettals.</head>
+               <p>Amongſt Animals Man hath the chiefeſt Signature in his Blood: Amongſt Vegeta<g ref="char:EOLhyphen"/>bles the Quinteſſence of Saffron; of the Berries of Juniper, of the Seeds of Rew, (Juniper and Rew having the ſignature of the Croſs) of the Quinteſſence of Cedar of Wine, &amp;c.</p>
+               <p>Amongſt Mettalick Bodies and Mettals preparations made out of the Minera of Mercury and Antimony, Venus, Luna, Sol, have the principalleſt ſignature.</p>
+            </div>
+            <div type="section">
+               <head>Numbers have Efficacy and Energy.</head>
+               <p>INſtance he that hath the Number ſeven, in his Nativity; can by the ſignature thereof, cure diſeaſes univerſally, if it be fortified and multiplied by a continual re<g ref="char:EOLhyphen"/>flection upon God: with the which Signa<g ref="char:EOLhyphen"/>ture I was dignified in my Nativity; and thereby have tranſmuted with admirable ſucceſs, the Signature of the Kings Evil, Epi<g ref="char:EOLhyphen"/>lepſy, Podagra, <hi>&amp;c.</hi> and have removed the
+<pb n="9" facs="tcp:33086:6"/>occaſional matter with Elixar and Balſam: with Elixars out of Mettallick bodies, Met<g ref="char:EOLhyphen"/>tals, and out of the Univerſal ſpirit incor<g ref="char:EOLhyphen"/>porated and fixed in Corals, Pearls, Salt<g ref="char:EOLhyphen"/>peter, Vitriol, <hi>&amp;c.</hi>
+               </p>
+               <p>With Balſam made out of the mineral Sulphur, and out of vegetable Sulphur; <hi>viz.</hi> by the coagulation of the Oyl with the Volatile Salt: out of Animal Sulphur by putrefaction, ſeperation of the principles, and conjunction and union of them again.</p>
+            </div>
+            <div type="demonstrations">
+               <head>Demonſtrations and Preparations of Mettallick bodies and Metals, and of the Spirit of the <g ref="char:V">Ʋ</g>niverſe incorporated.</head>
+               <p>TAke the King and the Queen and put them in the Wedlock bed; then after fourty dayes the Queen ſhall conceive with a Royal Child; (the conception being ini<g ref="char:EOLhyphen"/>tiated) the Embrion is to be nouriſhed with Virgins Milk untill the full perfection thereof.</p>
+               <p>Take Gold, and diſtill it ſeven times over the retort, with the <hi>menſtruum mundi;</hi> the Gold being thus volatized by diſtilla<g ref="char:EOLhyphen"/>tion, is to be ſublimed with three parts of Mercury to one of Gold, until all the Gold be ſublimed.</p>
+               <p>The Gold being thus ſublimed with
+<pb n="10" facs="tcp:33086:7"/>Mercury, then ſhould it be calcined with a Philoſophical calcination. The Mercury with the Gold, being thus calcined, then the bodies of both are pre-diſpoſed for the Extraction of the tincture with the <hi>men<g ref="char:EOLhyphen"/>ſtruum mundi.</hi> Hence ye ſhall have the <hi>me<g ref="char:EOLhyphen"/>dicine,</hi> whoſe Vertues and Properties will celebrate it ſelf.</p>
+               <p>Take Mettallick Bodies, Mettals and Spi<g ref="char:EOLhyphen"/>rit of the Univerſe incorporated, and ele<g ref="char:EOLhyphen"/>vate them unto their Heaven; then circulate them until they have traced the ſeven ſphears of the Planets, then reduce them into their Virgin Earth: whence you have a <hi>Medicine</hi> and <hi>Elixar</hi> (of each of the pre<g ref="char:EOLhyphen"/>miſed) curing all diſeaſes Corolary, Mercu<g ref="char:EOLhyphen"/>ry and Antimony being prepared according to their ordinary manner of preparation, are at the beſt exalted Poiſon, until they be perfectly fixed, which can be done by no means but by ſeparating the impure from the pure; and by joyning and congealing the central Mercury with that which is of a <hi>homogeneons</hi> nature; according to theſe Axiomes, <hi>Natura natura letatur unitur, tranſmutat &amp; multiplicat.</hi>
+               </p>
+            </div>
+            <div type="demonstrations">
+               <pb n="11" facs="tcp:33086:7"/>
+               <head>Demonſtrations of the preparation of Balſums out of Sulphur of Minerals Vegetables and Animals.</head>
+               <p>TAke Mineral Sulphur, and elevate it to its Heaven by the Separation of the mpure from the Pure, with a fit <hi>medium:</hi> the ſuperfluous Sulphur being thus ſepara<g ref="char:EOLhyphen"/>ted, ye may extract the tincture thereof with the Spirit of Wine.</p>
+               <p>Take Saffron, Juniper Berries, Seeds of Rew, Aloes, Cedar, and digeſt them in the <hi>menſtruum</hi> of Alcalice volatalized with eſſen<g ref="char:EOLhyphen"/>tial Oyls according to the ordinary way; But if ye ſhall prepare them according to the Method that I have preſcribed in the foreſaid Book, you may do much better.</p>
+            </div>
+            <div type="demonstration_by_axioms_and_conclusions">
+               <head>
+                  <hi>Demonſtration of the</hi> Univerſal Panacaea, <hi>or of the Spirit of the <g ref="char:V">Ʋ</g>niverſe Incorporated in the ſecond matter of Generation; by</hi> Axiomes <hi>and</hi> Concluſions.</head>
+               <p>Axiome 1. <hi>The Image of God is in Light as in its Vehicle.</hi>
+               </p>
+               <p>Ax. 2. <hi>Light is the Secret matter of Gene<g ref="char:EOLhyphen"/>ration.</hi>
+               </p>
+               <p>Ax. 3. <hi>Virgine Earth is the ſecond matter of Generation.</hi>
+               </p>
+               <pb n="12" facs="tcp:33086:8"/>
+               <p>Ax. 1. <hi>The Image of God by the Vehicle's Light, is united and concentred in the Virgine Earth.</hi>
+               </p>
+               <p>Ax. 5. <hi>Light the firſt matter is concentred and fixed in Virgine Earth, the ſecond matter.</hi>
+               </p>
+               <p>Ax. 6. <hi>The Image of God, in the firſt matter of Generation, uniting univocally and homoge<g ref="char:EOLhyphen"/>nically with the ſpirit of man,</hi> (<hi>being liberated from the bondage of</hi> Elementa Elementata, <hi>of the</hi> Principia Principiata) <hi>doth increaſe and multiply it according to the degree of union.</hi>
+               </p>
+               <p>Con. <hi>Virgine Earth is the ſubject matter; in which Light and Life is terminated and con<g ref="char:EOLhyphen"/>centrated.</hi>
+               </p>
+               <p>Con. <hi>The Light and Life in Virgine Earth, cauſeth Vegitation, Generation and Motion in all the products thereof.</hi>
+               </p>
+               <p>Con. <hi>Virgine Earth being purified by exalta<g ref="char:EOLhyphen"/>tion and ſublimation, from the circumferental and ſuperficial impurity, is the univerſal</hi> Pa<g ref="char:EOLhyphen"/>nacaea <hi>that conſerveth and multiplieth Light and Life in all its products.</hi>
+               </p>
+               <p>Having demonſtrated briefly the method and proceſs of Creation, Generation, of Origin of Cauſes, and of their Cure, I ſhall conclude with praiſe and glory to the <hi>IM<g ref="char:EOLhyphen"/>MENSE LIGHT, in whom we live, move, and have our being.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33086:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
